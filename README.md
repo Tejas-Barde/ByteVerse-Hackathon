@@ -72,5 +72,15 @@ This is everyday impact.This is TrustLink.
 ---
 
 ## 📷 Sneak Peek 
+![Screenshot (1359)](https://github.com/user-attachments/assets/58129b61-1bbf-4908-bbfe-b4bc63cb05af)
+![Screenshot (1360)](https://github.com/user-attachments/assets/7e53a2ac-1c86-422b-9e4c-9c0c1cb70d38)
+![Screenshot (1361)](https://github.com/user-attachments/assets/4613da15-c1b7-4a53-8566-b9aa64eec174)
+![Screenshot (1362)](https://github.com/user-attachments/assets/d28e8b2d-b3f9-4b21-a770-fc8fff62870a)
+![Screenshot (1363)](https://github.com/user-attachments/assets/6612e30b-d9b0-4338-b782-f9cd9139eade)
+
+
+
+
+
 
 
