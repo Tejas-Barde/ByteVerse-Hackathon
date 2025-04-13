@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://freeimage.host/i/3l34Hiu" alt="TrustLink Logo" height="150"/>
+  <img src="https://iili.io/3l34Hiu.png" alt="TrustLink Logo" height="150"/>
 </p>
 
 <h1 align="center">🔗 TrustLink – Transparency Engine for Everything You Consume</h1>
